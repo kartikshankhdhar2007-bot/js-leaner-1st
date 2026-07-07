@@ -25,5 +25,5 @@ let userone={
 } 
 let userTwo=userone;
 userTwo.bankName="sbi"
- console.log(userTwo.bankName)
- console.log(userone.bankName)
+console.log(userTwo.bankName)
+console.log(userone.bankName)
